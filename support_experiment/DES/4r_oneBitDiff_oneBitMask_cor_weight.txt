@@ -1,0 +1,258 @@
+i is 0
+diff is  (0, 1)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 1
+diff is  (0, 2)
+the number of B_S is  7
+strong unbalanced bits are  [32, 38, 42, 44, 52, 54, 63]
+i is 2
+diff is  (0, 4)
+the number of B_S is  5
+strong unbalanced bits are  [32, 38, 42, 60, 63]
+i is 3
+diff is  (0, 8)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 4
+diff is  (0, 16)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 5
+diff is  (0, 32)
+the number of B_S is  8
+strong unbalanced bits are  [35, 41, 45, 46, 51, 53, 60, 62]
+i is 6
+diff is  (0, 64)
+the number of B_S is  11
+strong unbalanced bits are  [35, 38, 41, 44, 45, 46, 53, 54, 60, 62, 63]
+i is 7
+diff is  (0, 128)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 8
+diff is  (0, 256)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 9
+diff is  (0, 512)
+the number of B_S is  5
+strong unbalanced bits are  [33, 34, 47, 55, 58]
+i is 10
+diff is  (0, 1024)
+the number of B_S is  7
+strong unbalanced bits are  [34, 37, 39, 47, 48, 55, 58]
+i is 11
+diff is  (0, 2048)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 12
+diff is  (0, 4096)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 13
+diff is  (0, 8192)
+the number of B_S is  5
+strong unbalanced bits are  [32, 36, 46, 47, 62]
+i is 14
+diff is  (0, 16384)
+the number of B_S is  7
+strong unbalanced bits are  [32, 36, 38, 46, 47, 62, 63]
+i is 15
+diff is  (0, 32768)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 16
+diff is  (0, 65536)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 17
+diff is  (0, 131072)
+the number of B_S is  8
+strong unbalanced bits are  [33, 41, 47, 48, 50, 56, 58, 61]
+i is 18
+diff is  (0, 262144)
+the number of B_S is  9
+strong unbalanced bits are  [33, 34, 39, 41, 47, 50, 55, 56, 61]
+i is 19
+diff is  (0, 524288)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 20
+diff is  (0, 1048576)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 21
+diff is  (0, 2097152)
+the number of B_S is  1
+strong unbalanced bits are  [60]
+i is 22
+diff is  (0, 4194304)
+the number of B_S is  5
+strong unbalanced bits are  [37, 43, 49, 59, 60]
+i is 23
+diff is  (0, 8388608)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 24
+diff is  (0, 16777216)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 25
+diff is  (0, 33554432)
+the number of B_S is  2
+strong unbalanced bits are  [42, 52]
+i is 26
+diff is  (0, 67108864)
+the number of B_S is  7
+strong unbalanced bits are  [33, 36, 42, 47, 52, 55, 56]
+i is 27
+diff is  (0, 134217728)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 28
+diff is  (0, 268435456)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 29
+diff is  (0, 536870912)
+the number of B_S is  8
+strong unbalanced bits are  [37, 39, 43, 49, 53, 56, 59, 60]
+i is 30
+diff is  (0, 1073741824)
+the number of B_S is  8
+strong unbalanced bits are  [35, 37, 43, 49, 53, 56, 59, 60]
+i is 31
+diff is  (0, 2147483648)
+the number of B_S is  0
+strong unbalanced bits are  []
+i is 32
+diff is  (1, 0)
+the number of B_S is  21
+strong unbalanced bits are  [32, 33, 34, 36, 38, 40, 41, 42, 43, 44, 46, 47, 48, 52, 54, 56, 57, 58, 59, 60, 63]
+i is 33
+diff is  (2, 0)
+the number of B_S is  37
+strong unbalanced bits are  [0, 6, 10, 12, 20, 22, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 58, 59, 60, 61, 62, 63]
+i is 34
+diff is  (4, 0)
+the number of B_S is  34
+strong unbalanced bits are  [0, 6, 10, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 35
+diff is  (8, 0)
+the number of B_S is  14
+strong unbalanced bits are  [32, 36, 37, 39, 43, 48, 49, 51, 52, 56, 58, 59, 60, 61]
+i is 36
+diff is  (16, 0)
+the number of B_S is  20
+strong unbalanced bits are  [32, 34, 35, 36, 38, 39, 40, 41, 42, 44, 45, 49, 50, 51, 52, 54, 56, 57, 58, 63]
+i is 37
+diff is  (32, 0)
+the number of B_S is  35
+strong unbalanced bits are  [3, 9, 13, 14, 19, 21, 28, 30, 32, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 38
+diff is  (64, 0)
+the number of B_S is  42
+strong unbalanced bits are  [3, 6, 9, 12, 13, 14, 21, 22, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 39
+diff is  (128, 0)
+the number of B_S is  17
+strong unbalanced bits are  [36, 37, 38, 39, 44, 45, 46, 49, 50, 51, 54, 56, 57, 60, 61, 62, 63]
+i is 40
+diff is  (256, 0)
+the number of B_S is  21
+strong unbalanced bits are  [33, 34, 37, 38, 39, 41, 44, 45, 47, 49, 50, 51, 52, 54, 55, 56, 57, 60, 61, 62, 63]
+i is 41
+diff is  (512, 0)
+the number of B_S is  36
+strong unbalanced bits are  [1, 2, 15, 23, 26, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 42
+diff is  (1024, 0)
+the number of B_S is  34
+strong unbalanced bits are  [2, 5, 7, 15, 16, 23, 26, 33, 34, 35, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63]
+i is 43
+diff is  (2048, 0)
+the number of B_S is  17
+strong unbalanced bits are  [32, 33, 34, 35, 40, 41, 43, 45, 46, 49, 50, 52, 53, 56, 59, 60, 62]
+i is 44
+diff is  (4096, 0)
+the number of B_S is  17
+strong unbalanced bits are  [32, 35, 39, 40, 43, 45, 49, 50, 52, 53, 54, 55, 56, 59, 60, 61, 62]
+i is 45
+diff is  (8192, 0)
+the number of B_S is  34
+strong unbalanced bits are  [0, 4, 14, 15, 30, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63]
+i is 46
+diff is  (16384, 0)
+the number of B_S is  37
+strong unbalanced bits are  [0, 4, 6, 14, 15, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 47
+diff is  (32768, 0)
+the number of B_S is  22
+strong unbalanced bits are  [33, 36, 37, 38, 39, 41, 43, 44, 46, 48, 49, 50, 52, 54, 55, 56, 57, 58, 59, 61, 62, 63]
+i is 48
+diff is  (65536, 0)
+the number of B_S is  16
+strong unbalanced bits are  [33, 38, 39, 43, 44, 46, 49, 52, 54, 56, 57, 58, 59, 61, 62, 63]
+i is 49
+diff is  (131072, 0)
+the number of B_S is  37
+strong unbalanced bits are  [1, 9, 15, 16, 18, 24, 26, 29, 32, 33, 34, 35, 36, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 50
+diff is  (262144, 0)
+the number of B_S is  38
+strong unbalanced bits are  [1, 2, 7, 9, 15, 18, 23, 24, 29, 32, 33, 34, 35, 36, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63]
+i is 51
+diff is  (524288, 0)
+the number of B_S is  24
+strong unbalanced bits are  [32, 33, 35, 36, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 58, 61, 63]
+i is 52
+diff is  (1048576, 0)
+the number of B_S is  21
+strong unbalanced bits are  [32, 35, 36, 38, 40, 42, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 56, 58, 61, 62, 63]
+i is 53
+diff is  (2097152, 0)
+the number of B_S is  31
+strong unbalanced bits are  [28, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 54
+diff is  (4194304, 0)
+the number of B_S is  35
+strong unbalanced bits are  [5, 11, 17, 27, 28, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 55
+diff is  (8388608, 0)
+the number of B_S is  24
+strong unbalanced bits are  [32, 33, 34, 35, 36, 37, 38, 41, 42, 43, 44, 45, 47, 49, 51, 53, 54, 55, 58, 59, 60, 61, 62, 63]
+i is 56
+diff is  (16777216, 0)
+the number of B_S is  27
+strong unbalanced bits are  [33, 34, 35, 36, 37, 38, 39, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63]
+i is 57
+diff is  (33554432, 0)
+the number of B_S is  26
+strong unbalanced bits are  [20, 33, 34, 35, 36, 37, 38, 39, 41, 42, 43, 44, 45, 46, 47, 50, 51, 52, 53, 54, 55, 56, 60, 61, 62, 63]
+i is 58
+diff is  (67108864, 0)
+the number of B_S is  33
+strong unbalanced bits are  [1, 4, 10, 15, 20, 23, 32, 34, 35, 36, 37, 38, 39, 41, 42, 43, 45, 46, 47, 49, 50, 51, 52, 53, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+i is 59
+diff is  (134217728, 0)
+the number of B_S is  23
+strong unbalanced bits are  [32, 34, 35, 36, 37, 38, 40, 41, 42, 44, 45, 46, 47, 48, 51, 53, 54, 55, 57, 60, 61, 62, 63]
+i is 60
+diff is  (268435456, 0)
+the number of B_S is  28
+strong unbalanced bits are  [32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 59, 60, 61, 62, 63]
+i is 61
+diff is  (536870912, 0)
+the number of B_S is  35
+strong unbalanced bits are  [5, 7, 11, 17, 21, 24, 27, 28, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 54, 55, 57, 58, 59, 61, 62, 63]
+i is 62
+diff is  (1073741824, 0)
+the number of B_S is  38
+strong unbalanced bits are  [3, 5, 7, 11, 17, 21, 24, 27, 28, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 61, 62, 63]
+i is 63
+diff is  (2147483648, 0)
+the number of B_S is  25
+strong unbalanced bits are  [33, 34, 35, 36, 38, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 61, 63]
+
+Process finished with exit code 0

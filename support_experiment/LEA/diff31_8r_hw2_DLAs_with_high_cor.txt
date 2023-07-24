@@ -1,0 +1,147 @@
+C:\D_file\software\Anaconda\python.exe C:/D_file/documents/Projects/PythonProjects/myProjects/AutoSearch_of_Diff_Linear_trail/LEA/Diff_Linear_paths/iterative_search/Verify_Specific_DLA_Cor.py
+tp is  ('0x0', '0x80')
+the cor weight is 3.9938492718296894
+tp is  ('0x0', '0x100')
+the cor weight is 2.7195191896816264
+tp is  ('0x0', '0x2000000000')
+the cor weight is 3.7972639567498327
+tp is  ('0x0', '0x4000000000')
+the cor weight is 2.6713250726720528
+tp is  ('0x0', '0x8000000000')
+the cor weight is 1.8047046973677097
+tp is  ('0x0', '0x1000000000000000')
+the cor weight is 3.164936507994905
+tp is  ('0x100', '0x0')
+the cor weight is 3.837293981517583
+tp is  ('0x200', '0x0')
+the cor weight is 2.8609283467048408
+tp is  ('0x400', '0x0')
+the cor weight is 2.1010207953774858
+tp is  ('0x2000', '0x0')
+the cor weight is 3.888538260142278
+tp is  ('0x4000', '0x0')
+the cor weight is 2.6656568725103886
+tp is  ('0x800000', '0x0')
+the cor weight is 3.1503016981487044
+tp is  ('0x1000000', '0x0')
+the cor weight is 2.14893421459524
+tp is  ('0x2000000', '0x0')
+the cor weight is 1.3487240266533613
+tp is  ('0x0', '0x80002')
+the cor weight is 3.9578276468250717
+tp is  ('0x0', '0xc0')
+the cor weight is 3.9859795296850655
+tp is  ('0x0', '0x180')
+the cor weight is 2.7126483393025085
+tp is  ('0x0', '0x800000000000080')
+the cor weight is 3.5861076716273574
+tp is  ('0x0', '0x8000000100')
+the cor weight is 3.860128936787513
+tp is  ('0x0', '0x1000000000000100')
+the cor weight is 2.8180713074874224
+tp is  ('0x4000', '0x100')
+the cor weight is 3.4158595812162025
+tp is  ('0x2000000', '0x100')
+the cor weight is 3.5985871212858225
+tp is  ('0x0', '0x2000000000000200')
+the cor weight is 0.6148959413455244
+tp is  ('0x0', '0x4000000000000400')
+the cor weight is 1.4096761115560792
+tp is  ('0x40000000000000', '0x2000')
+the cor weight is 3.4677658468184953
+tp is  ('0x80000000000000', '0x4000')
+the cor weight is 2.9594534117002333
+tp is  ('0x100000000000000', '0x8000')
+the cor weight is 2.591537567115625
+tp is  ('0x200000000000000', '0x10000')
+the cor weight is 2.320904817131534
+tp is  ('0x400000000000000', '0x20000')
+the cor weight is 2.13537855838253
+tp is  ('0x800000000000000', '0x40000')
+the cor weight is 1.925440376889537
+tp is  ('0x1000000000000000', '0x80000')
+the cor weight is 1.9133246899997878
+tp is  ('0x800000000', '0x4000000')
+the cor weight is 3.504144973112829
+tp is  ('0x1000000000', '0x8000000')
+the cor weight is 3.511406666164591
+tp is  ('0x2000000000', '0x10000000')
+the cor weight is 2.4547941725743945
+tp is  ('0x4000000000', '0x20000000')
+the cor weight is 2.180818821040373
+tp is  ('0x8000000000', '0x40000000')
+the cor weight is 2.0122474731869953
+tp is  ('0x0', '0x3000000000')
+the cor weight is 3.7225672914099457
+tp is  ('0x0', '0x5000000000')
+the cor weight is 3.8841435180849224
+tp is  ('0x0', '0x6000000000')
+the cor weight is 2.7115664532068964
+tp is  ('0x0', '0xa000000000')
+the cor weight is 2.9125371587496605
+tp is  ('0x0', '0xc000000000')
+the cor weight is 1.8010178848431226
+tp is  ('0x1000000', '0x4000000000')
+the cor weight is 3.4560015498654586
+tp is  ('0x2000000', '0x4000000000')
+the cor weight is 3.1042353999836014
+tp is  ('0x0', '0x1000008000000000')
+the cor weight is 3.9804092716421193
+tp is  ('0x400', '0x8000000000')
+the cor weight is 3.618997890449074
+tp is  ('0x4000', '0x8000000000')
+the cor weight is 3.8453400898669523
+tp is  ('0x800000', '0x8000000000')
+the cor weight is 3.766829737617295
+tp is  ('0x1000000', '0x8000000000')
+the cor weight is 2.9896467344507456
+tp is  ('0x2000000', '0x8000000000')
+the cor weight is 2.375889964237012
+tp is  ('0x100', '0x40000000000')
+the cor weight is 3.9870263516254596
+tp is  ('0x200', '0x40000000000')
+the cor weight is 3.7494054928076843
+tp is  ('0x400', '0x40000000000')
+the cor weight is 3.6225183118170423
+tp is  ('0x0', '0x1800000000000000')
+the cor weight is 3.158730511085907
+tp is  ('0x4000', '0x1000000000000000')
+the cor weight is 3.821490754347817
+tp is  ('0x2000000', '0x1000000000000000')
+the cor weight is 3.6060733243595826
+tp is  ('0x180', '0x0')
+the cor weight is 3.9178509586461283
+tp is  ('0x300', '0x0')
+the cor weight is 2.867018381470649
+tp is  ('0x500', '0x0')
+the cor weight is 3.1232912184449044
+tp is  ('0x600', '0x0')
+the cor weight is 2.10073749738131
+tp is  ('0x2000200', '0x0')
+the cor weight is 3.8716833970964557
+tp is  ('0x1000400', '0x0')
+the cor weight is 3.901967917039473
+tp is  ('0x2000400', '0x0')
+the cor weight is 3.1834162922124296
+tp is  ('0x3000', '0x0')
+the cor weight is 3.9784994518253685
+tp is  ('0x5000', '0x0')
+the cor weight is 3.894418818722564
+tp is  ('0x6000', '0x0')
+the cor weight is 2.639907373773291
+tp is  ('0x2004000', '0x0')
+the cor weight is 3.6365496380564726
+tp is  ('0xc00000', '0x0')
+the cor weight is 3.184216455871815
+tp is  ('0x1400000', '0x0')
+the cor weight is 3.3515300629386138
+tp is  ('0x2400000', '0x0')
+the cor weight is 3.6997904577676484
+tp is  ('0x1800000', '0x0')
+the cor weight is 2.1484949414430736
+tp is  ('0x2800000', '0x0')
+the cor weight is 2.463570637346048
+tp is  ('0x3000000', '0x0')
+the cor weight is 1.352822674619735
+
+Process finished with exit code 0

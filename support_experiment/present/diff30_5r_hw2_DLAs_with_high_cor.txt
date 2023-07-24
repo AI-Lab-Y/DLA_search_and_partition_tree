@@ -1,0 +1,142 @@
+cur output linear mask is  [20]
+the cor weight is 3.125594923590512
+cur output linear mask is  [21]
+the cor weight is 3.1101158296971714
+cur output linear mask is  [23]
+the cor weight is 3.1113518686254866
+cur output linear mask is  [24]
+the cor weight is 3.7036573153071104
+cur output linear mask is  [25]
+the cor weight is 3.802169001987803
+cur output linear mask is  [27]
+the cor weight is 3.7984886554998543
+cur output linear mask is  [28]
+the cor weight is 3.504144973112829
+cur output linear mask is  [29]
+the cor weight is 3.513039313610348
+cur output linear mask is  [31]
+the cor weight is 3.4428953415101446
+cur output linear mask is  [36]
+the cor weight is 3.357609791946097
+cur output linear mask is  [37]
+the cor weight is 3.3516424179903344
+cur output linear mask is  [39]
+the cor weight is 3.3077114299926342
+cur output linear mask is  [44]
+the cor weight is 3.7002195971414604
+cur output linear mask is  [45]
+the cor weight is 3.7301428053451318
+cur output linear mask is  [47]
+the cor weight is 3.7222767183896504
+cur output linear mask is  [49]
+the cor weight is 3.979714499155352
+cur output linear mask is  [51]
+the cor weight is 3.9523648262749695
+cur output linear mask is  [52]
+the cor weight is 2.9541550351411123
+cur output linear mask is  [53]
+the cor weight is 2.950406666820568
+cur output linear mask is  [55]
+the cor weight is 2.9863283859413627
+cur output linear mask is  [56]
+the cor weight is 3.544672779695439
+cur output linear mask is  [57]
+the cor weight is 3.520851305845229
+cur output linear mask is  [59]
+the cor weight is 3.4859024031801646
+cur output linear mask is  [60]
+the cor weight is 3.2267577473147004
+cur output linear mask is  [61]
+the cor weight is 3.2716542852890234
+cur output linear mask is  [63]
+the cor weight is 3.2166947802522055
+cur output linear mask is  [0, 16]
+the cor weight is 3.993323284691012
+cur output linear mask is  [0, 48]
+the cor weight is 3.9261931528215075
+cur output linear mask is  [3, 19]
+the cor weight is 3.924855155933683
+cur output linear mask is  [3, 51]
+the cor weight is 3.9931479982512252
+cur output linear mask is  [4, 20]
+the cor weight is 2.919598822583847
+cur output linear mask is  [4, 36]
+the cor weight is 2.9221828791040965
+cur output linear mask is  [4, 52]
+the cor weight is 2.941162667322184
+cur output linear mask is  [5, 21]
+the cor weight is 2.9089779104508953
+cur output linear mask is  [5, 37]
+the cor weight is 2.9562037119531186
+cur output linear mask is  [5, 53]
+the cor weight is 2.897204103296178
+cur output linear mask is  [7, 23]
+the cor weight is 2.9117914728540644
+cur output linear mask is  [7, 39]
+the cor weight is 2.9326496756518834
+cur output linear mask is  [7, 55]
+the cor weight is 2.9108806020848323
+cur output linear mask is  [8, 24]
+the cor weight is 3.5189574250662465
+cur output linear mask is  [8, 40]
+the cor weight is 3.6763822367084225
+cur output linear mask is  [8, 56]
+the cor weight is 3.5760962341634066
+cur output linear mask is  [9, 25]
+the cor weight is 3.4746015413303852
+cur output linear mask is  [9, 41]
+the cor weight is 3.7153204656396084
+cur output linear mask is  [9, 57]
+the cor weight is 3.5275629999486706
+cur output linear mask is  [11, 27]
+the cor weight is 3.4990336697170163
+cur output linear mask is  [11, 43]
+the cor weight is 3.707390777235703
+cur output linear mask is  [11, 59]
+the cor weight is 3.535199018344583
+cur output linear mask is  [12, 28]
+the cor weight is 3.2489790545323878
+cur output linear mask is  [12, 44]
+the cor weight is 3.425524731200993
+cur output linear mask is  [12, 60]
+the cor weight is 3.217411240505036
+cur output linear mask is  [13, 29]
+the cor weight is 3.2145475318414576
+cur output linear mask is  [13, 45]
+the cor weight is 3.380697044584313
+cur output linear mask is  [13, 61]
+the cor weight is 3.2460520583001458
+cur output linear mask is  [15, 31]
+the cor weight is 3.222950211561169
+cur output linear mask is  [15, 47]
+the cor weight is 3.3829917723480354
+cur output linear mask is  [15, 63]
+the cor weight is 3.204772033971322
+cur output linear mask is  [20, 36]
+the cor weight is 3.326138865716194
+cur output linear mask is  [21, 37]
+the cor weight is 3.30738449830542
+cur output linear mask is  [23, 39]
+the cor weight is 3.3761185099865414
+cur output linear mask is  [28, 44]
+the cor weight is 3.7609982422344173
+cur output linear mask is  [29, 45]
+the cor weight is 3.7929856798224675
+cur output linear mask is  [31, 47]
+the cor weight is 3.7267871901456657
+cur output linear mask is  [36, 52]
+the cor weight is 3.2801833969818737
+cur output linear mask is  [37, 53]
+the cor weight is 3.2162855340851073
+cur output linear mask is  [39, 55]
+the cor weight is 3.218128056737707
+cur output linear mask is  [41, 57]
+the cor weight is 3.992797489250257
+cur output linear mask is  [44, 60]
+the cor weight is 3.653347765894318
+cur output linear mask is  [45, 61]
+the cor weight is 3.712143358159456
+cur output linear mask is  [47, 63]
+the cor weight is 3.681739656287584
+
+Process finished with exit code 0

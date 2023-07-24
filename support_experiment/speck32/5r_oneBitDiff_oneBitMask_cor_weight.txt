@@ -1,0 +1,99 @@
+the current absolute correlation weight threshold is  4
+diff is  (0, 1)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 2)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 4)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 8)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 16)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 32)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 64)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 128)
+the number of B_S is  1
+strong unbalanced bits are  [16]
+diff is  (0, 256)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 512)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 1024)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 2048)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 4096)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 8192)
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is  (0, 16384)
+the number of B_S is  2
+strong unbalanced bits are  [0, 16]
+diff is  (0, 32768)
+the number of B_S is  3
+strong unbalanced bits are  [1, 16, 17]
+diff is  (1, 0)
+the number of B_S is  5
+strong unbalanced bits are  [2, 16, 17, 18, 25]
+diff is  (2, 0)
+the number of B_S is  5
+strong unbalanced bits are  [3, 10, 18, 19, 26]
+diff is  (4, 0)
+the number of B_S is  5
+strong unbalanced bits are  [4, 11, 19, 20, 27]
+diff is  (8, 0)
+the number of B_S is  4
+strong unbalanced bits are  [5, 20, 21, 28]
+diff is  (16, 0)
+the number of B_S is  5
+strong unbalanced bits are  [6, 13, 21, 22, 29]
+diff is  (32, 0)
+the number of B_S is  7
+strong unbalanced bits are  [0, 7, 14, 16, 22, 23, 30]
+diff is  (64, 0)
+the number of B_S is  10
+strong unbalanced bits are  [0, 1, 8, 15, 16, 17, 23, 24, 30, 31]
+diff is  (128, 0)
+the number of B_S is  4
+strong unbalanced bits are  [9, 16, 24, 25]
+diff is  (256, 0)
+the number of B_S is  5
+strong unbalanced bits are  [10, 16, 17, 25, 26]
+diff is  (512, 0)
+the number of B_S is  6
+strong unbalanced bits are  [2, 11, 17, 18, 26, 27]
+diff is  (1024, 0)
+the number of B_S is  4
+strong unbalanced bits are  [12, 19, 27, 28]
+diff is  (2048, 0)
+the number of B_S is  5
+strong unbalanced bits are  [4, 13, 20, 28, 29]
+diff is  (4096, 0)
+the number of B_S is  5
+strong unbalanced bits are  [0, 14, 21, 29, 30]
+diff is  (8192, 0)
+the number of B_S is  5
+strong unbalanced bits are  [6, 15, 22, 30, 31]
+diff is  (16384, 0)
+the number of B_S is  4
+strong unbalanced bits are  [0, 16, 23, 31]
+diff is  (32768, 0)
+the number of B_S is  4
+strong unbalanced bits are  [1, 16, 17, 24]
+
+Process finished with exit code 0
