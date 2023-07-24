@@ -25,7 +25,9 @@ def compute_space_size(bit_num=10, hw=2):
 
 if __name__ == '__main__':
     pos = 31
-    DLAs_with_high_cor = np.load('./diff{}_8r_hw2_DLAs_with_high_cor.npy'.format(pos), allow_pickle=True)
+    hw = 2
+    DLAs_with_high_cor = np.load('./diff{}_8r_hw2_DLAs_with_high_cor.npy'.format(pos),
+                                 allow_pickle=True)
 
     bit_bias = np.load('./8r_oneBitDiff_oneBitMask_cor_weight.npy')
     bound = 4
@@ -62,65 +64,9 @@ if __name__ == '__main__':
     # label 2: linear mask is related to both weak and strong unbalanced bits
     print('the number of DLAs with label 2 is ', np.sum(y == 2))
 
-    hw = 2
     s1 = compute_space_size(bit_num=block_size, hw=2)
     s2 = compute_space_size(bit_num=len(active_bits), hw=2)
     n1 = len(DLAs_with_high_cor)
     n2 = np.sum(y == 1)
     print('the probability that the cor of an DLA picked from Space X_1 is high is ', n1 / s1)
     print('the probability that the cor of an DLA picked from Space X_2 is high is ', n2 / s2)
-
-
-#
-# traverse_data = np.load('./diff31_8r_hw2_DLAs_with_high_cor.npy')
-#
-# biased_bits = np.load('./8r_single_bit_DLA_cor_weight.npy')
-# bound = 4
-# diff = 31
-# active_bits = [i for i in range(block_size) if biased_bits[31][i] <= bound]
-#
-# print('data shape is ', len(traverse_data))
-# print('active_bits num is ', len(active_bits))
-#
-# # identify involved bits
-# pool = []
-#
-# # set labels
-# n = len(traverse_data)
-# y = np.zeros(n, dtype=np.uint8)
-# for i in range(n):
-#     cur_mask = traverse_data[i]
-#     v0, v1 = cur_mask[0], cur_mask[1]   # 127 ~ 0
-#     tp = []
-#     for j in range(64):
-#         if (v1 >> j) & 1 == 1:
-#             tp.append(j)
-#             if j not in pool:
-#                 pool.append(j)
-#         if (v0 >> j) & 1 == 1:
-#             tp.append(j + 64)
-#             tmp = j + 64
-#             if tmp not in pool:
-#                 pool.append(tmp)
-#     flag = 0
-#     for j in tp:
-#         if j in active_bits:
-#             flag += 1
-#     if flag == len(tp):
-#         y[i] = 1
-#     elif flag > 0:
-#         y[i] = 2
-#     else:
-#         y[i] = 0
-#
-# print('the number of data with label 0 is ', np.sum(y == 0))
-# print('the number of data with label 1 is ', np.sum(y == 1))
-# print('the number of data with label 2 is ', np.sum(y == 2))
-#
-# # output involved bits
-# print('the number of involved bits is {}'.format(len(pool)))
-#
-# print(traverse_data[y == 1])
-# print('the total number is ', len(traverse_data[y == 1]))
-
-

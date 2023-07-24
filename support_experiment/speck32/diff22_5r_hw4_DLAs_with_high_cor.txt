@@ -1,4 +1,3 @@
-C:\D_file\software\Anaconda\python.exe C:/D_file/documents/Projects/PythonProjects/myProjects/AutoSearch_of_Diff_Linear_trail/submitted_version/support_experiment/speck32/analyze_DLAs_with_high_cor.py
 the number of strong unbalanced bits is  10
 strong unbalanced bits are  [0, 1, 8, 15, 16, 17, 23, 24, 30, 31]
 cur mask is  [0]

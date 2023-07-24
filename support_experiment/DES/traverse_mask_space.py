@@ -91,7 +91,7 @@ if __name__ == '__main__':
         diff = (1 << (pos - word_size), 0x0)
     nr = 4
     hw = 2
-    n = 2**18
+    n = 2**20
     cor_bound = 4
     res = main(diff=diff, nr=nr, n=n, cor_bound=cor_bound)
     np.save('./diff{}_{}r_hw{}_DLAs_with_high_cor.npy'.format(pos, nr, hw), res)

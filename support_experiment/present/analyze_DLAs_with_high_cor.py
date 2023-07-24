@@ -25,6 +25,7 @@ def compute_space_size(bit_num=10, hw=2):
 
 if __name__ == '__main__':
     pos = 56
+    hw = 2
     DLAs_with_high_cor = np.load('./diff{}_5r_hw2_DLAs_with_high_cor.npy'.format(pos), allow_pickle=True)
 
     bit_bias = np.load('./5r_oneBitDiff_oneBitMask_cor_weight.npy')
@@ -62,7 +63,6 @@ if __name__ == '__main__':
     # label 2: linear mask is related to both weak and strong unbalanced bits
     print('the number of DLAs with label 2 is ', np.sum(y == 2))
 
-    hw = 2
     s1 = compute_space_size(bit_num=block_size, hw=2)
     s2 = compute_space_size(bit_num=len(active_bits), hw=2)
     n1 = len(DLAs_with_high_cor)

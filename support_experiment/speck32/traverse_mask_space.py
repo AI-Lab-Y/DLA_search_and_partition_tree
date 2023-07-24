@@ -87,8 +87,8 @@ if __name__ == '__main__':
     else:
         diff = (1 << (pos - word_size), 0x0)
     nr = 5
-    hw = 3
-    n = 2**18
+    hw = 4
+    n = 2**20
     cor_bound = 4
     fixedKey = 0
     res = main(diff=diff, nr=nr, n=n, cor_bound=cor_bound, fixedKey=fixedKey)

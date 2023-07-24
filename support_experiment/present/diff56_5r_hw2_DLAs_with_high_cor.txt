@@ -1,95 +1,56 @@
-cur output linear mask is  [6]
-the cor weight is 3.9011454467812423
-cur output linear mask is  [14]
-the cor weight is 3.613868062685006
-cur output linear mask is  [18]
-the cor weight is 3.927699884071662
-cur output linear mask is  [22]
-the cor weight is 2.657091966208426
-cur output linear mask is  [26]
-the cor weight is 2.854943541636348
-cur output linear mask is  [29]
-the cor weight is 3.6541789710493764
-cur output linear mask is  [30]
-the cor weight is 2.5378172824222913
-cur output linear mask is  [31]
-the cor weight is 3.666425322541863
-cur output linear mask is  [38]
-the cor weight is 3.3471550269980206
-cur output linear mask is  [42]
-the cor weight is 3.5045196828783802
-cur output linear mask is  [46]
-the cor weight is 3.047076789637274
-cur output linear mask is  [54]
-the cor weight is 2.843758880764248
-cur output linear mask is  [58]
-the cor weight is 3.110496036588524
-cur output linear mask is  [61]
-the cor weight is 3.8675002703714907
-cur output linear mask is  [62]
-the cor weight is 2.681739656287584
-cur output linear mask is  [63]
-the cor weight is 3.964341727705929
-cur output linear mask is  [2, 34]
-the cor weight is 3.3392241218173897
-cur output linear mask is  [5, 37]
-the cor weight is 3.706672053043641
-cur output linear mask is  [6, 22]
-the cor weight is 2.8398922268974265
-cur output linear mask is  [6, 38]
-the cor weight is 2.2945296009660443
-cur output linear mask is  [6, 54]
-the cor weight is 2.8493800346941547
-cur output linear mask is  [7, 39]
-the cor weight is 3.6623780980074923
-cur output linear mask is  [9, 41]
-the cor weight is 3.8535904304122166
-cur output linear mask is  [10, 26]
-the cor weight is 3.055013479706968
-cur output linear mask is  [10, 42]
-the cor weight is 2.468435777195469
-cur output linear mask is  [10, 58]
-the cor weight is 3.064834950396305
-cur output linear mask is  [11, 43]
-the cor weight is 3.831484568812359
-cur output linear mask is  [12, 44]
-the cor weight is 3.7339455317016306
-cur output linear mask is  [13, 29]
-the cor weight is 3.868303776402224
-cur output linear mask is  [13, 45]
-the cor weight is 3.1477631166150397
-cur output linear mask is  [13, 61]
-the cor weight is 3.8278850674668634
-cur output linear mask is  [14, 30]
-the cor weight is 2.703298837223296
-cur output linear mask is  [14, 46]
-the cor weight is 2.199302285636874
-cur output linear mask is  [14, 62]
-the cor weight is 2.675397509910285
-cur output linear mask is  [15, 31]
-the cor weight is 3.8675002703714907
-cur output linear mask is  [15, 47]
-the cor weight is 3.1377500991484872
-cur output linear mask is  [15, 63]
-the cor weight is 3.835407283287634
-cur output linear mask is  [22, 38]
-the cor weight is 2.907573184219745
-cur output linear mask is  [22, 54]
-the cor weight is 3.159615449288334
-cur output linear mask is  [26, 42]
-the cor weight is 3.1702772649139415
-cur output linear mask is  [26, 58]
-the cor weight is 3.437876851132713
-cur output linear mask is  [30, 46]
-the cor weight is 2.736657434169727
-cur output linear mask is  [30, 62]
-the cor weight is 2.994989568926996
-cur output linear mask is  [38, 54]
-the cor weight is 3.0490796479699034
-cur output linear mask is  [42, 58]
-the cor weight is 3.2972861889985787
-cur output linear mask is  [46, 62]
-the cor weight is 2.867660935780743
-
+the number of strong unbalanced bits is  16
+strong unbalanced bits are  [6, 14, 18, 22, 26, 29, 30, 31, 38, 42, 46, 54, 58, 61, 62, 63]
+mask of the 0-th DLA is [6]
+mask of the 1-th DLA is [14]
+mask of the 2-th DLA is [18]
+mask of the 3-th DLA is [22]
+mask of the 4-th DLA is [26]
+mask of the 5-th DLA is [29]
+mask of the 6-th DLA is [30]
+mask of the 7-th DLA is [31]
+mask of the 8-th DLA is [38]
+mask of the 9-th DLA is [42]
+mask of the 10-th DLA is [46]
+mask of the 11-th DLA is [54]
+mask of the 12-th DLA is [58]
+mask of the 13-th DLA is [61]
+mask of the 14-th DLA is [62]
+mask of the 15-th DLA is [63]
+mask of the 16-th DLA is [2, 34]
+mask of the 17-th DLA is [5, 37]
+mask of the 18-th DLA is [6, 22]
+mask of the 19-th DLA is [6, 38]
+mask of the 20-th DLA is [6, 54]
+mask of the 21-th DLA is [7, 39]
+mask of the 22-th DLA is [9, 41]
+mask of the 23-th DLA is [10, 26]
+mask of the 24-th DLA is [10, 42]
+mask of the 25-th DLA is [10, 58]
+mask of the 26-th DLA is [11, 43]
+mask of the 27-th DLA is [12, 44]
+mask of the 28-th DLA is [13, 29]
+mask of the 29-th DLA is [13, 45]
+mask of the 30-th DLA is [13, 61]
+mask of the 31-th DLA is [14, 30]
+mask of the 32-th DLA is [14, 46]
+mask of the 33-th DLA is [14, 62]
+mask of the 34-th DLA is [15, 31]
+mask of the 35-th DLA is [15, 47]
+mask of the 36-th DLA is [15, 63]
+mask of the 37-th DLA is [22, 38]
+mask of the 38-th DLA is [22, 54]
+mask of the 39-th DLA is [26, 42]
+mask of the 40-th DLA is [26, 58]
+mask of the 41-th DLA is [30, 46]
+mask of the 42-th DLA is [30, 62]
+mask of the 43-th DLA is [38, 54]
+mask of the 44-th DLA is [42, 58]
+mask of the 45-th DLA is [46, 62]
+the total number of DLAs with high cor in G is  46
+the number of DLAs with label 0 is  8
+the number of DLAs with label 1 is  31
+the number of DLAs with label 2 is  7
+the probability that the cor of an DLA picked from Space X_1 is high is  0.022115384615384617
+the probability that the cor of an DLA picked from Space X_2 is high is  0.22794117647058823
 
 Process finished with exit code 0

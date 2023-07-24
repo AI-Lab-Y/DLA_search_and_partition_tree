@@ -24,10 +24,6 @@ def make_target_diff_data(n=10 ** 7, nr=3, diff_type=1, diff=0x9):
     c0 = pt.encrypt(p0, subkeys)
     c1 = pt.encrypt(p1, subkeys)
     X = c0 ^ c1
-    # X = np.concatenate((c0, c1), axis=1)
-
-    print('c0 shape is ', np.shape(c0))
-    print('x shape is ', np.shape(X))
 
     return X
 

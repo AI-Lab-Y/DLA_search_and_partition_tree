@@ -45,31 +45,6 @@ def one_time_experiment(n=10**7, nr=5, diff=(0x40, 0x0, 0x0, 0x0), fixedKey=1):
     return res
 
 
-# nr = 8
-# cor_res = np.zeros((128, 128), dtype=np.float64)
-# for i in range(1, 128):
-#     print('i is {}'.format(i))
-#     if i < 32:
-#         diff = (0x0, 0x0, 0x0, (1 << i) + (1 << (i-1)))
-#     elif i < 64:
-#         if i == 32:
-#             diff = (0x0, 0x0, 1, 1 << 31)
-#         else:
-#             diff = (0x0, 0x0, (1 << (i - 32)) + (1 << (i - 1 - 32)), 0x0)
-#     elif i < 96:
-#         if i == 64:
-#             diff = (0x0, 1, 1 << 31, 0x0)
-#         else:
-#             diff = (0x0, (1 << (i-64)) + (1 << (i-1-64)), 0x0, 0x0)
-#     else:
-#         if i == 96:
-#             diff = (1, 1 << 31, 0x0, 0x0)
-#         else:
-#             diff = ((1 << (i-96)) + (1 << (i-1-96)), 0x0, 0x0, 0x0)
-#     cor_res[i] = one_time_experiment(n=2**24, nr=nr, diff=diff, fixedKey=0)
-# np.save('./{}r_twoBitDiff_oneBitMask_cor_weight.npy'.format(nr), cor_res)
-
-
 nr = 8
 cor_res = np.zeros((128, 128), dtype=np.float64)
 for i in range(block_size):

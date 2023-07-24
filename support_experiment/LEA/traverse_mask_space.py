@@ -73,7 +73,7 @@ def main(diff=(0x0, 0x1, 0x0, 0x0), nr=8, n=2**22, cor_bound=4, fixedKey=0):
 
 
 if __name__ == '__main__':
-    pos = 69
+    pos = 31
     if pos < 32:
         diff = (0x0, 0x0, 0x0, 1 << pos)
     elif pos < 64:
@@ -83,9 +83,9 @@ if __name__ == '__main__':
     else:
         diff = (1 << (pos - 96), 0x0, 0x0, 0x0)
     print('diff is ', diff)
-    nr = 7
+    nr = 8
     hw = 2
-    n = 2 ** 18
+    n = 2 ** 20
     cor_bound = 4
     fixedKey = 0
     res = main(diff=diff, nr=nr, n=n, cor_bound=cor_bound, fixedKey=fixedKey)
