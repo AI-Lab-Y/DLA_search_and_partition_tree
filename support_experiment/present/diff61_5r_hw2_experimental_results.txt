@@ -1,0 +1,34 @@
+the number of strong unbalanced bits is  9
+strong unbalanced bits are  [22, 26, 30, 38, 46, 50, 54, 58, 62]
+mask of the 0-th DLA is [22]
+mask of the 1-th DLA is [26]
+mask of the 2-th DLA is [30]
+mask of the 3-th DLA is [38]
+mask of the 4-th DLA is [46]
+mask of the 5-th DLA is [50]
+mask of the 6-th DLA is [54]
+mask of the 7-th DLA is [58]
+mask of the 8-th DLA is [62]
+mask of the 9-th DLA is [2, 18]
+mask of the 10-th DLA is [2, 50]
+mask of the 11-th DLA is [6, 22]
+mask of the 12-th DLA is [6, 38]
+mask of the 13-th DLA is [6, 54]
+mask of the 14-th DLA is [10, 26]
+mask of the 15-th DLA is [10, 42]
+mask of the 16-th DLA is [10, 58]
+mask of the 17-th DLA is [14, 30]
+mask of the 18-th DLA is [14, 46]
+mask of the 19-th DLA is [14, 62]
+mask of the 20-th DLA is [22, 38]
+mask of the 21-th DLA is [30, 46]
+mask of the 22-th DLA is [38, 54]
+mask of the 23-th DLA is [46, 62]
+the total number of DLAs with high cor in G is  24
+the number of DLAs with label 0 is  2
+the number of DLAs with label 1 is  13
+the number of DLAs with label 2 is  9
+the probability that the cor of an DLA picked from Space X_1 is high is  0.011538461538461539
+the probability that the cor of an DLA picked from Space X_2 is high is  0.28888888888888886
+
+Process finished with exit code 0
