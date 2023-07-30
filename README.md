@@ -8,5 +8,4 @@ support_experiment:
 the support experiments on LEA, Speck32, DES, PRESENT
 
 extra_report_on_idea_of_reviewer#D :
-this code is used to explore the new idea of Reviewer#D,
-and it is not related to our paper.
+this code is used to explore the new idea of Reviewer#D.
