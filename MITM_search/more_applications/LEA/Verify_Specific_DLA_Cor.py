@@ -84,4 +84,4 @@ for i in indexs:
 m0, m1, m2, m3 = (val >> 96) & MASK_VAL, (val >> 64) & MASK_VAL, (val >> 32) & MASK_VAL, val & MASK_VAL
 mask = (m0, m1, m2, m3)
 print('diff is [{}], linear mask is {}'.format(31, indexs))
-verify_experimental_cor(n=n, nr=nr, diff=diff, mask=mask, fixedKey=0)
+verify_experimental_cor(n=n, nr=nr, diff=diff, mask=mask, fixedKey=1)

@@ -68,4 +68,4 @@ for i in indexs:
 v0, v1 = (val >> word_size) & MASK_VAL, val & MASK_VAL
 mask = (v0, v1)
 print('diff is [{}], linear mask is {}'.format(22, indexs))
-verify_experimental_cor(n=2**24, nr=nr, diff=diff, mask=mask, fixedKey=0)
+verify_experimental_cor(n=2**30, nr=nr, diff=diff, mask=mask, fixedKey=1)
