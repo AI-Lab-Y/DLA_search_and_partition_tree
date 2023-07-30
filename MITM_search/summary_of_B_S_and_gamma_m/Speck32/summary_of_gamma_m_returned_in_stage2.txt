@@ -1,0 +1,67 @@
+the difference is [0]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [1]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [2]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [3]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [4]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [5]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [6]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [7]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [8]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [9]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [10]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [11]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [12]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [13]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [14]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [15]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [16]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [17]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [18]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [19]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [20]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [21]
+the number of $\gamma _m$ returned in Stage 2 is  2
+the difference is [22]
+the number of $\gamma _m$ returned in Stage 2 is  33
+the difference is [23]
+the number of $\gamma _m$ returned in Stage 2 is  1
+the difference is [24]
+the number of $\gamma _m$ returned in Stage 2 is  1
+the difference is [25]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [26]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [27]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [28]
+the number of $\gamma _m$ returned in Stage 2 is  4
+the difference is [29]
+the number of $\gamma _m$ returned in Stage 2 is  2
+the difference is [30]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the difference is [31]
+the number of $\gamma _m$ returned in Stage 2 is  0
+the total number of returned \gamma_m is  43
+
+Process finished with exit code 0

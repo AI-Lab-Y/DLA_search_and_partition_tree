@@ -1,7 +1,12 @@
-# verify_subspace_for_lea
+verify_subspace_for_lea:   
+verify the 34-dimensional space for LEA
 
-verify_subspace: the experiment code for verifying the 34-D subspace for LEA
+MITM_search:  
+search DLAs of LEA and Speck
 
-MITM_search: the application code of MITM search
+support_experiment:  
+the support experiments on LEA, Speck32, DES, PRESENT
 
-support_experiment: the code of support experiments on Speck32, LEA, DES, Present
+extra_report_on_idea_of_reviewer#D :
+this code is used to explore the new idea of Reviewer#D,
+and it is not related to our paper.

@@ -1,0 +1,41 @@
+the number of strong unbalanced bits is  11
+strong unbalanced bits are  [35, 38, 41, 44, 45, 46, 53, 54, 60, 62, 63]
+cur mask is  [35]
+cur mask is  [38]
+cur mask is  [41]
+cur mask is  [44]
+cur mask is  [45]
+cur mask is  [46]
+cur mask is  [53]
+cur mask is  [54]
+cur mask is  [60]
+cur mask is  [62]
+cur mask is  [63]
+cur mask is  [33, 41]
+cur mask is  [34, 48]
+cur mask is  [35, 45]
+cur mask is  [35, 53]
+cur mask is  [35, 60]
+cur mask is  [36, 46]
+cur mask is  [36, 51]
+cur mask is  [36, 62]
+cur mask is  [38, 54]
+cur mask is  [38, 63]
+cur mask is  [40, 58]
+cur mask is  [41, 55]
+cur mask is  [44, 54]
+cur mask is  [44, 63]
+cur mask is  [45, 53]
+cur mask is  [45, 60]
+cur mask is  [46, 51]
+cur mask is  [46, 62]
+cur mask is  [51, 62]
+cur mask is  [53, 60]
+the total number of DLAs with high cor in G is  31
+the number of DLAs with label 0 is  3
+the number of DLAs with label 1 is  22
+the number of DLAs with label 2 is  6
+the probability that the cor of an DLA picked from Space X_1 is high is  0.014903846153846155
+the probability that the cor of an DLA picked from Space X_2 is high is  0.3333333333333333
+
+Process finished with exit code 0

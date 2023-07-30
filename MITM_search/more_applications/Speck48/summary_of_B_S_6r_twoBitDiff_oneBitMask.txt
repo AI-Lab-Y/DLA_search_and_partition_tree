@@ -1,0 +1,144 @@
+the current absolute correlation weight threshold is  8
+diff is [1, 0]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [2, 1]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [3, 2]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [4, 3]
+the number of B_S is  1
+strong unbalanced bits are  [25]
+diff is [5, 4]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [6, 5]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [7, 6]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [8, 7]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [9, 8]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [10, 9]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [11, 10]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [12, 11]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [13, 12]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [14, 13]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [15, 14]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [16, 15]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [17, 16]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [18, 17]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [19, 18]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [20, 19]
+the number of B_S is  1
+strong unbalanced bits are  [41]
+diff is [21, 20]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [22, 21]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [23, 22]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [24, 23]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [25, 24]
+the number of B_S is  2
+strong unbalanced bits are  [24, 32]
+diff is [26, 25]
+the number of B_S is  3
+strong unbalanced bits are  [24, 25, 33]
+diff is [27, 26]
+the number of B_S is  1
+strong unbalanced bits are  [24]
+diff is [28, 27]
+the number of B_S is  2
+strong unbalanced bits are  [25, 41]
+diff is [29, 28]
+the number of B_S is  5
+strong unbalanced bits are  [26, 28, 34, 36, 42]
+diff is [30, 29]
+the number of B_S is  2
+strong unbalanced bits are  [24, 43]
+diff is [31, 30]
+the number of B_S is  10
+strong unbalanced bits are  [4, 17, 20, 25, 28, 30, 36, 38, 41, 44]
+diff is [32, 31]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [33, 32]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [34, 33]
+the number of B_S is  1
+strong unbalanced bits are  [41]
+diff is [35, 34]
+the number of B_S is  2
+strong unbalanced bits are  [24, 42]
+diff is [36, 35]
+the number of B_S is  3
+strong unbalanced bits are  [25, 33, 41]
+diff is [37, 36]
+the number of B_S is  3
+strong unbalanced bits are  [26, 42, 44]
+diff is [38, 37]
+the number of B_S is  2
+strong unbalanced bits are  [0, 24]
+diff is [39, 38]
+the number of B_S is  6
+strong unbalanced bits are  [1, 4, 25, 28, 36, 44]
+diff is [40, 39]
+the number of B_S is  9
+strong unbalanced bits are  [2, 5, 25, 26, 29, 37, 39, 45, 47]
+diff is [41, 40]
+the number of B_S is  1
+strong unbalanced bits are  [24]
+diff is [42, 41]
+the number of B_S is  1
+strong unbalanced bits are  [25]
+diff is [43, 42]
+the number of B_S is  1
+strong unbalanced bits are  [24]
+diff is [44, 43]
+the number of B_S is  3
+strong unbalanced bits are  [25, 27, 33]
+diff is [45, 44]
+the number of B_S is  0
+strong unbalanced bits are  []
+diff is [46, 45]
+the number of B_S is  1
+strong unbalanced bits are  [35]
+diff is [47, 46]
+the number of B_S is  2
+strong unbalanced bits are  [28, 33]
+
+Process finished with exit code 0

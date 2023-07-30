@@ -1,0 +1,205 @@
+diff is [31], linear mask is [8, 41, 42, 73, 74]
+Test: 0
+cur cor is -0.020494461059570312, the cor weight is 5.608622137684854
+Test: 1
+cur cor is -0.018425464630126953, the cor weight is 5.762155189931812
+Test: 2
+cur cor is -0.01092672348022461, the cor weight is 6.515995334738325
+Test: 3
+cur cor is -0.013007164001464844, the cor weight is 6.264549749396983
+Test: 4
+cur cor is -0.003249645233154297, the cor weight is 8.265502058307428
+Test: 5
+cur cor is -0.02012777328491211, the cor weight is 5.63466861257282
+Test: 6
+cur cor is -0.022700786590576172, the cor weight is 5.461113901480454
+Test: 7
+cur cor is -0.008387565612792969, the cor weight is 6.897532137640677
+Test: 8
+cur cor is -0.0179443359375, the cor weight is 5.800327655163636
+Test: 9
+cur cor is -0.006988525390625, the cor weight is 7.160796211903056
+Test: 10
+cur cor is -0.09013652801513672, the cor weight is 3.4717443100766183
+Test: 11
+cur cor is -0.01673126220703125, the cor weight is 5.901309903326406
+Test: 12
+cur cor is -0.023862838745117188, the cor weight is 5.389090512211223
+Test: 13
+cur cor is -0.008629798889160156, the cor weight is 6.856457345766785
+Test: 14
+cur cor is -0.022127151489257812, the cor weight is 5.498038450196037
+Test: 15
+cur cor is -0.020860671997070312, the cor weight is 5.583070556786397
+Test: 16
+cur cor is -0.01603412628173828, the cor weight is 5.96271044799055
+Test: 17
+cur cor is -0.009408950805664062, the cor weight is 6.731750428005507
+Test: 18
+cur cor is -0.010129928588867188, the cor weight is 6.6252321859071746
+Test: 19
+cur cor is -0.031095504760742188, the cor weight is 5.00715015373153
+Test: 20
+cur cor is -0.01912975311279297, the cor weight is 5.708037935288173
+Test: 21
+cur cor is -0.017711639404296875, the cor weight is 5.819158434433338
+Test: 22
+cur cor is -0.009459495544433594, the cor weight is 6.724021035024378
+Test: 23
+cur cor is -0.03399467468261719, the cor weight is 4.878547426079682
+Test: 24
+cur cor is -0.02639484405517578, the cor weight is 5.243600047406614
+Test: 25
+cur cor is -0.015851497650146484, the cor weight is 5.979237037084059
+Test: 26
+cur cor is -0.02493143081665039, the cor weight is 5.325890508194746
+Test: 27
+cur cor is -0.014224052429199219, the cor weight is 6.135523642777425
+Test: 28
+cur cor is -0.010334491729736328, the cor weight is 6.596388753795164
+Test: 29
+cur cor is -0.009289264678955078, the cor weight is 6.750219884610789
+Test: 30
+cur cor is -0.009792327880859375, the cor weight is 6.6741324194245815
+Test: 31
+cur cor is -0.013300895690917969, the cor weight is 6.232332788759879
+Test: 32
+cur cor is -0.004168987274169922, the cor weight is 7.906087316334439
+Test: 33
+cur cor is -0.011111736297607422, the cor weight is 6.491771922802132
+Test: 34
+cur cor is -0.017218589782714844, the cor weight is 5.859889200163998
+Test: 35
+cur cor is -0.012102603912353516, the cor weight is 6.3685387086151195
+Test: 36
+cur cor is -0.012566089630126953, the cor weight is 6.314320414232812
+Test: 37
+cur cor is -0.008591175079345703, the cor weight is 6.86292881159855
+Test: 38
+cur cor is -0.008385181427001953, the cor weight is 6.897942285487331
+Test: 39
+cur cor is -0.015866756439208984, the cor weight is 5.977848954313384
+Test: 40
+cur cor is -0.022490501403808594, the cor weight is 5.474540364820639
+Test: 41
+cur cor is -0.01984262466430664, the cor weight is 5.655253320313327
+Test: 42
+cur cor is -0.006464481353759766, the cor weight is 7.27324965760784
+Test: 43
+cur cor is -0.009521007537841797, the cor weight is 6.714670033299575
+Test: 44
+cur cor is -0.01699542999267578, the cor weight is 5.878709326544546
+Test: 45
+cur cor is -0.005153656005859375, the cor weight is 7.600188040674316
+Test: 46
+cur cor is -0.013971805572509766, the cor weight is 6.161337717904663
+Test: 47
+cur cor is -0.023511409759521484, the cor weight is 5.410495143251094
+Test: 48
+cur cor is -0.017201900482177734, the cor weight is 5.861288225734077
+Test: 49
+cur cor is -0.01049947738647461, the cor weight is 6.573538670521957
+Test: 50
+cur cor is -0.033545494079589844, the cor weight is 4.897737196988743
+Test: 51
+cur cor is -0.008455276489257812, the cor weight is 6.885932352834735
+Test: 52
+cur cor is -0.0058269500732421875, the cor weight is 7.423043335293908
+Test: 53
+cur cor is -0.010686874389648438, the cor weight is 6.548016222769809
+Test: 54
+cur cor is -0.022754669189453125, the cor weight is 5.45769357741741
+Test: 55
+cur cor is -0.0070648193359375, the cor weight is 7.145131616739763
+Test: 56
+cur cor is -0.008382797241210938, the cor weight is 6.898352549969234
+Test: 57
+cur cor is -0.005636692047119141, the cor weight is 7.470935534679892
+Test: 58
+cur cor is -0.01913595199584961, the cor weight is 5.707570514243783
+Test: 59
+cur cor is -0.011688232421875, the cor weight is 6.418799418075043
+Test: 60
+cur cor is -0.009646415710449219, the cor weight is 6.695791300554355
+Test: 61
+cur cor is -0.005747318267822266, the cor weight is 7.442895341510145
+Test: 62
+cur cor is -0.01886892318725586, the cor weight is 5.7278440962869785
+Test: 63
+cur cor is -0.017817020416259766, the cor weight is 5.810600098150645
+Test: 64
+cur cor is -0.0055980682373046875, the cor weight is 7.480855212002585
+Test: 65
+cur cor is -0.017172813415527344, the cor weight is 5.863729774888549
+Test: 66
+cur cor is -0.023574352264404297, the cor weight is 5.4066380582283164
+Test: 67
+cur cor is -0.006090641021728516, the cor weight is 7.359190209206839
+Test: 68
+cur cor is -0.020017147064208984, the cor weight is 5.642619820476612
+Test: 69
+cur cor is -0.009499549865722656, the cor weight is 6.717925131415914
+Test: 70
+cur cor is -0.014064311981201172, the cor weight is 6.151817211284038
+Test: 71
+cur cor is -0.011560916900634766, the cor weight is 6.434600366716308
+Test: 72
+cur cor is -0.010569572448730469, the cor weight is 6.563939170534901
+Test: 73
+cur cor is -0.008468151092529297, the cor weight is 6.883737273878457
+Test: 74
+cur cor is -0.02300882339477539, the cor weight is 5.441668979612291
+Test: 75
+cur cor is -0.017574310302734375, the cor weight is 5.830388117395789
+Test: 76
+cur cor is -0.05614280700683594, the cor weight is 4.154754992799889
+Test: 77
+cur cor is -0.019087791442871094, the cor weight is 5.711206004725099
+Test: 78
+cur cor is -0.015593528747558594, the cor weight is 6.002908749196699
+Test: 79
+cur cor is -0.017859935760498047, the cor weight is 5.807129298463269
+Test: 80
+cur cor is -0.012806892395019531, the cor weight is 6.286935742993848
+Test: 81
+cur cor is -0.012187004089355469, the cor weight is 6.358512675518328
+Test: 82
+cur cor is -0.02318096160888672, the cor weight is 5.430915775302769
+Test: 83
+cur cor is -0.017486572265625, the cor weight is 5.837608671243095
+Test: 84
+cur cor is -0.010946273803710938, the cor weight is 6.513416340932731
+Test: 85
+cur cor is -0.028750896453857422, the cor weight is 5.120249249739571
+Test: 86
+cur cor is -0.012651920318603516, the cor weight is 6.304499814826189
+Test: 87
+cur cor is -0.009780406951904297, the cor weight is 6.67588978929239
+Test: 88
+cur cor is -0.0077724456787109375, the cor weight is 7.007415655994198
+Test: 89
+cur cor is -0.006047725677490234, the cor weight is 7.3693915837109305
+Test: 90
+cur cor is -0.011330127716064453, the cor weight is 6.46369206610135
+Test: 91
+cur cor is -0.010820388793945312, the cor weight is 6.530103851329082
+Test: 92
+cur cor is -0.028558731079101562, the cor weight is 5.129924310777351
+Test: 93
+cur cor is -0.007181644439697266, the cor weight is 7.121470057137604
+Test: 94
+cur cor is -0.012297630310058594, the cor weight is 6.345475847323423
+Test: 95
+cur cor is -0.008610248565673828, the cor weight is 6.859729397877516
+Test: 96
+cur cor is -0.0075817108154296875, the cor weight is 7.04326085494092
+Test: 97
+cur cor is -0.027196407318115234, the cor weight is 5.200440107662114
+Test: 98
+cur cor is -0.026713848114013672, the cor weight is 5.226268379465169
+Test: 99
+cur cor is -0.00896596908569336, the cor weight is 6.801324759620326
+among the t experimental correlations,
+the mean weight, median weight are 5.980871480647366, 6.04499326790432
+
+Process finished with exit code 0

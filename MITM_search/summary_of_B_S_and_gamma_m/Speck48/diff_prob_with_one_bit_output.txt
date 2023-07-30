@@ -1,0 +1,58 @@
+This file saves data related to prepended differential
+\varDelta _in \xrightarrow {E_m} \varDelta _m.
+
+example:
+diff_out :  \varDelta _m
+# [p1, p2, p3]  : pi is the optimal probability of
+                          i-round prepended differential under
+                          the fixed difference \varDelta _m
+
+
+# diff_out = (0x0, 1 << 0)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 1)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 2)    # [0, 3, 8]
+# diff_out = (0x0, 1 << 3)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 4)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 5)    # [1, 3, 8]
+# diff_out = (0x0, 1 << 6)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 7)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 8)    # [1, 4, 8]
+# diff_out = (0x0, 1 << 9)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 10)    # [1, 4, 8]
+# diff_out = (0x0, 1 << 11)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 12)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 13)    # [1, 4, 8]
+# diff_out = (0x0, 1 << 14)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 15)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 16)    # [1, 4, 8]
+# diff_out = (0x0, 1 << 17)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 18)    # [1, 3, 8]
+# diff_out = (0x0, 1 << 19)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 20)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 21)    # [1, 3, 7]
+# diff_out = (0x0, 1 << 22)    # [1, 4, 9]
+# diff_out = (0x0, 1 << 23)    # [1, 4, 9]
+# diff_out = (1 << (24 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (25 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (26 - 24), 0x0)    # [1, 5, 11]
+# diff_out = (1 << (27 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (28 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (29 - 24), 0x0)    # [2, 5, 11]
+# diff_out = (1 << (30 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (31 - 24), 0x0)    # [2, 6, 11]
+# diff_out = (1 << (32 - 24), 0x0)    # [2, 6, 11]
+# diff_out = (1 << (33 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (34 - 24), 0x0)    # [2, 6, 11]
+# diff_out = (1 << (35 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (36 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (37 - 24), 0x0)    # [2, 6, 11]
+# diff_out = (1 << (38 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (39 - 24), 0x0)    # [2, 5, 11]
+# diff_out = (1 << (40 - 24), 0x0)    # [2, 6, 11]
+# diff_out = (1 << (41 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (42 - 24), 0x0)    # [2, 5, 11]
+# diff_out = (1 << (43 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (44 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (45 - 24), 0x0)    # [2, 5, 10]
+# diff_out = (1 << (46 - 24), 0x0)    # [2, 6, 12]
+# diff_out = (1 << (47 - 24), 0x0)    # [1, 5, 11]

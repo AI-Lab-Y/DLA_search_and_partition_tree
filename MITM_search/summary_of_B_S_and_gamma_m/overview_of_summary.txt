@@ -1,0 +1,40 @@
+c1 :  the upper bound of absolute correlation weight 
+        used to identify strong unbalanced bits  over E_m
+
+c2 :  the upper bound of absolute correlation weight of
+        linear trails of E_2
+
+n_r  :  the number of encryption rounds covered by E_2
+
+n_m :  the total number of non-duplicate 
+linear mask $\gamma _m$
+returned in Stage 2
+
+
+for LEA,  when c1 = 8,  c2 = 10,  n_r = 5, 
+we have n_m = 1670
+
+for Speck32,  when c1 = 8,  c2 = 4,  n_r = 3,
+we have n_m = 43
+
+for Speck48,  when c1 = 8,  c2 = 4,  n_r = 3,
+we have n_m = 56
+
+for Speck64,  when c1 = 8,  c2 = 6,  n_r = 4,
+we have n_m = 114
+
+for Speck96,  when c1 = 8,  c2 = 8,  n_r = 5,
+we have n_m = 779
+
+for Speck128,  when c1 = 8,  c2 = 11,  n_r = 5,
+we have n_m = 369
+
+remark:
+Some linear masks can be filtered in advance 
+by considering the probability of the prepended differential together, 
+thus, the actual number of linear masks that need 
+to be tested in Stage 3 doesn't exceed n_m.
+
+for example, for LEA,  at least a total of (454 + 948 = 1402) 
+linear masks are filtered. The concrete reason is presented in 
+'./LEA/how_to_filter_masks_in_advance.txt'.
