@@ -1,0 +1,37 @@
+
+Consider the DLA 
+\varDelta_{in} \xrightarrow {E_1}  \varDelta_m 
+                       \xrightarrow {E_m} \gamma_m
+                       \xrightarrow {E_2}  \gamma_{out}.
+Suppose that 
+the probability of \varDelta_{in} \xrightarrow {E_1}  \varDelta_m is p,
+the correlation of \varDelta_m \xrightarrow {E_m} \gamma_m is r,
+the correlation of \gamma_m \xrightarrow {E_2}  \gamma_{out} is q.
+
+We use Algortihm 2 (i.e., MITM searching) to search the short DLA
+\varDelta_m   \xrightarrow {E_m} \gamma_m
+                       \xrightarrow {E_2}  \gamma_{out}.
+
+Now, when we have found a good DLA, 
+i.e., the 17-round DLA introduced in our paper,
+for which we have p = 2^{-33}, r = -2^{-6.04}, q = 2^{-10}.
+As a result, the total absolute correlation is 2^{-33-6.04-20} = 2^{-59.04}.
+
+Next, many linear masks can be filtered without testing,
+or be tested by using a low data complexity.
+Take \varDelta_m = [4] and \varDelta_m = [2] as examples.
+
+for \varDelta_m = [4], when E_1 covers 4 rounds, p <= 2^{-45}.
+However, for all the linear trails returned in Stage 2,  q <= 2^{-7}.
+Thus, only if r >= 2^{-0.04}  （i.e., 59.04 - 45 - 14 = 0.04）holds,
+we can find a better DLA than the above 17-round DLA.
+Apparently, the condition r >= 2^{-0.04} is too strict for E_m covering 8 rounds.
+As a result, all the 948 linear masks \gamma_m 
+corresponding \varDelta_m = [4] can be filtered without testing.
+
+The same reason applies to the case of \varDelta_m = [2].
+
+We don't introduce this little trick in our paper since
+it is too simple and 
+doesn't affect the correctness of MITM searching
+even if we do not introduce it. 
